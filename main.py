@@ -1,1 +1,1 @@
-print("git_version6")
+print("clone_of_new_branch")
